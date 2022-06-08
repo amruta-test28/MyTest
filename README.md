@@ -1,6 +1,6 @@
 # PearsonAutomation
 
-This project is designed to perform Unit tests on website 'www.pearson.com' to check navigation of other pages from Home page.
+This project is designed to perform Unit tests on website 'www.pearson.com' to check navigation to...... other pages from Home page.
 
 Thee are 4 Unit tests designed for this project.
 1. Section_Student-This test checks accessability of the sub pages inside Students link.
@@ -13,7 +13,7 @@ Visual Studio IDE is available in both free and paid versions. The community ver
 Download Visual Studio Community Edition from Microsoft official website. (https://visualstudio.microsoft.com/downloads/)
 
 # How to run Selenium C# Tests with Example
-Launch Visual Studio and Open project'TestPearsonWeb'
+Launch Visual Studio and Open project'TestPearsonWeb'.
 Open Test Explorer window. Click on Test Menu. Click on Test Explorer. New tab named Test Explorer opens up on the left of Visual Studio IDE
 
 ![image](https://user-images.githubusercontent.com/107007668/172637841-97a9dba0-17e2-4e0f-884d-8e53d47ef0aa.png)

@@ -2,7 +2,7 @@
 
 This project is designed to perform Unit tests on website 'www.pearson.com' to check navigation to...... other pages from Home page.
 
-Thee are 4 Unit tests designed for this project.
+Thee are 4  tests designed in class file 'UnitTest1.cs'.
 1. Section_Student-This test checks accessability of the sub pages inside Students link.
 2. Page_WhoWeAre-This test checks accessability of 'WhoWeAre' page from maain Menu icon on Home page.
 3. Page_WhatWeDo-This test checks accessability of 'WhatWeDo' page from main Menu icon on Home page.

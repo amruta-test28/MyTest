@@ -10,7 +10,7 @@ Thee are 4  tests designed in class file 'UnitTest1.cs'.
 
 # How to Install Visual Studio
 Visual Studio IDE is available in both free and paid versions. The community version of Visual Studio is free.
-Download Visual Studio Community Edition from Microsoft official website. (https://visualstudio.microsoft.com/downloads/)
+Download Visual Studio 2022 Community Edition from Microsoft official website. (https://visualstudio.microsoft.com/downloads/)
 
 # How to run Selenium C# Tests with Example
 Launch Visual Studio and Open project'TestPearsonWeb'.

@@ -6,7 +6,7 @@ Thee are 4  tests designed in class file 'UnitTest1.cs'.
 1. Section_Student()-This test checks accessability of the sub pages inside Students link.
 2. Page_WhoWeAre()-This test checks accessability of 'WhoWeAre' page from maain Menu icon on Home page.
 3. Page_WhatWeDo()-This test checks accessability of 'WhatWeDo' page from main Menu icon on Home page.
-4. Page_eText()- This test checks accessability of Search eText page from Home page.
+4. Page_EText()- This test checks accessability of Search eText page from Home page.
 
 # How to Install Visual Studio
 Visual Studio IDE is available in both free and paid versions. The community version of Visual Studio is free.
